@@ -1,0 +1,16 @@
+{
+  "toDoList": [
+    {
+      "id": "8c99",
+      "task": "Paper work done",
+      "isCompleted": false,
+      "data_of_creation": "07/2/2024"
+    },
+    {
+      "task": "Samosa party done",
+      "isCompleted": true,
+      "data_of_creation": "10/2/2024",
+      "id": "eddc"
+    }
+  ]
+}
