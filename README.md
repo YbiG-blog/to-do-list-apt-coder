@@ -34,3 +34,6 @@ The backend ( json server ) runs on port 8000. You can access the web applicatio
 - `PUT    /toDoList/:_id(taskId)`: Edit Task.
 - `DEL    /toDoList/:_id((taskId))`: Delete a task.
 
+## DataBase
+- db.json ( Basically mock database)
+
